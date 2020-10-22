@@ -3,7 +3,7 @@ We provide synthetically generated medium voltage (MV) distribution network mode
 
 ## Files
 * \[[Zip file](https://github.com/DESL-EPFL/Medium-Voltage-Distribution-Network-Models-for-Switzerland/blob/main/MVnetworkDatabase.zip)\]  (MVnetworkDatabase.zip) containing excel files (MVnetworkID.xlsx) for each MV network containing Linedata (sheet 1), demand (sheet 2), transformer data (sheet 3) and gegraphical locations (sheet 4).
-* A demo matlab code (powerflow.m) to run power flow on a chosen MV network using matpower.
+* A \[[demo matlab code](https://github.com/DESL-EPFL/Medium-Voltage-Distribution-Network-Models-for-Switzerland/blob/main/powerflow.m)\] (powerflow.m) to run power flow on a chosen MV network using matpower.
 
 ## Simulation notes 
 * To run the power-flow, it requires the installation of \[[MATPOWER](https://matpower.org)\] package.
