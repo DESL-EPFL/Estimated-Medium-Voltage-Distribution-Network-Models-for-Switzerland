@@ -16,4 +16,4 @@ We provide synthetically generated medium voltage (MV) power distribution networ
 
 ## References 
 For a detailed description on the network generation method, please have look at the following reference(s):
-* R. Gupta, F. Sossan and M. Paolone, “Countrywide PV hosting capacity and energy storage requirements for distribution networks: the case of Switzerland”, Applied Energy 2020 (accepted in press).
+* [[R. Gupta, F. Sossan and M. Paolone, “Countrywide PV hosting capacity and energy storage requirements for distribution networks: the case of Switzerland”, Applied Energy 2020 (accepted in press).](https://doi.org/10.1016/j.apenergy.2020.116010)\]
