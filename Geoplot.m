@@ -82,7 +82,7 @@ suptitle(['Geographical locations of MV network ', num2str(j)])
 set(gca,'FontSize',28)
 set(gca, 'FontName', 'Cambria')
 
-msg = ['locating MV netowrk ', num2str(j), ' successful'];  
+msg = ['plotting MV netowrk ', num2str(j), ' successful'];  
 
 
 
