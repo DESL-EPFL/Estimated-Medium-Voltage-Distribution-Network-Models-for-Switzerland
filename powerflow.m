@@ -12,3 +12,7 @@ k = 740;
 
 % run power flow using Matpower runpf function
 runpf(SimMVtoMatpower(k))
+
+% plot MV netowrks geographical locations
+
+[msg] = Geoplot(k)
