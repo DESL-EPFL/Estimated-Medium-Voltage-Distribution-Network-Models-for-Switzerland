@@ -2,7 +2,7 @@
 function mpc = SynMVtoMatpower(j)
 
 % j - index of the mv network
-filename = ['SynMVdb/MV' num2str(j), '.xlsx'];
+filename = ['MV' num2str(j), '.xlsx'];
 
 LD = xlsread(filename, 1);
 demandData = xlsread(filename, 2);
