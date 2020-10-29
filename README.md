@@ -12,6 +12,7 @@ We provide synthetically generated medium voltage (MV) power distribution networ
 ## Simulation notes 
 * To run the power-flow, it requires the installation of \[[MATPOWER](https://matpower.org)\] package.
 * Please assign Matpower PATH to matpower_path in powerflow.m.
+* Unzip the file MVnetworkDatabase.zip in the same directory.
 
 ## Software 
 * MATLAB R2018b
