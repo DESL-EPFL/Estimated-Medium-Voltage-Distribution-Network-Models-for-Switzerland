@@ -1,5 +1,5 @@
 % demo code for using SynMV networks using MATPOWER
-function mpc = SynMVtoMatpower(j)
+function mpc = SimMVtoMatpower(j)
 
 % j - index of the mv network
 filename = ['MV' num2str(j), '.xlsx'];
