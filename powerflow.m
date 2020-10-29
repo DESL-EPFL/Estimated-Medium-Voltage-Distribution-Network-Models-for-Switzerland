@@ -11,4 +11,4 @@ addpath('MVnetworkDatabase/')
 k = 740;
 
 % run power flow using Matpower runpf function
-runpf(SynMVtoMatpower(k))
+runpf(SimMVtoMatpower(k))
